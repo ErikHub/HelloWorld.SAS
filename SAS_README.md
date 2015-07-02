@@ -19,10 +19,12 @@ When you terminate an instance of SAS University Edition, the practice data is d
 
 ### SAS is for Accessing, Managing, Analyzing, and Presenting Data.  
 __Access__: SAS can access files from Excel, Oracle, raw data, or other types of files.  
+
 - _Raw Data Files_: Files that have not been processed by any other program. File contains non-software-specific data, or unformatted text.  
 - _SAS Datasets_: Proprietary data format created and read by SAS core.  
 - _SAS Program Files_:  Contains SAS programming code on how to process certain data.  
-**Manage**: You can subset data, create variables, validate or clean data, or combine data to ready it for analysis.  
+
+__Manage__: You can subset data, create variables, validate or clean data, or combine data to ready it for analysis.  
 **Analysis**: You can perform frequency counts, or calculate averages easily. SAS is the gold standard when it comes to Statistical Analysis, and you can perform regression or forecasting.  
 **Present**: You can create list reports, summary reports, or graphic reports to share your findings meaningfully.  
   
